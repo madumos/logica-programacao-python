@@ -1,5 +1,3 @@
-# logica-programacao-python
-
 # 🐍 Lógica de Programação com Python
 
 Este repositório contém meus exercícios iniciais de programação. O objetivo aqui é documentar minha evolução e praticar conceitos fundamentais.
